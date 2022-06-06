@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to DevOps training  !!! Deploiement Manuelle test2 - projet4: pipeline script groovy</h1>
+<h1> Hello, Welcome to DevOps training  !!! Deploiement semi automatique</h1>
 Pipeline Git-Gitlab-Jenkins-Tomcat
 
